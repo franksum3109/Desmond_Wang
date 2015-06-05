@@ -1,0 +1,13 @@
+C:\Users\Desmond\Documents\GitHub\Desmond\etron_getColorDepthImage\bin\Debug\etron_hello.exe.config
+C:\Users\Desmond\Documents\GitHub\Desmond\etron_getColorDepthImage\bin\Debug\etron_hello.exe
+C:\Users\Desmond\Documents\GitHub\Desmond\etron_getColorDepthImage\bin\Debug\etron_hello.pdb
+C:\Users\Desmond\Documents\GitHub\Desmond\etron_getColorDepthImage\obj\Debug\etron_getColorDepthImage.csprojResolveAssemblyReference.cache
+C:\Users\Desmond\Documents\GitHub\Desmond\etron_getColorDepthImage\obj\Debug\MainWindow.baml
+C:\Users\Desmond\Documents\GitHub\Desmond\etron_getColorDepthImage\obj\Debug\MainWindow.g.cs
+C:\Users\Desmond\Documents\GitHub\Desmond\etron_getColorDepthImage\obj\Debug\App.g.cs
+C:\Users\Desmond\Documents\GitHub\Desmond\etron_getColorDepthImage\obj\Debug\etron_hello_MarkupCompile.cache
+C:\Users\Desmond\Documents\GitHub\Desmond\etron_getColorDepthImage\obj\Debug\etron_hello.g.resources
+C:\Users\Desmond\Documents\GitHub\Desmond\etron_getColorDepthImage\obj\Debug\etron_hello.Properties.Resources.resources
+C:\Users\Desmond\Documents\GitHub\Desmond\etron_getColorDepthImage\obj\Debug\etron_getColorDepthImage.csproj.GenerateResource.Cache
+C:\Users\Desmond\Documents\GitHub\Desmond\etron_getColorDepthImage\obj\Debug\etron_hello.exe
+C:\Users\Desmond\Documents\GitHub\Desmond\etron_getColorDepthImage\obj\Debug\etron_hello.pdb

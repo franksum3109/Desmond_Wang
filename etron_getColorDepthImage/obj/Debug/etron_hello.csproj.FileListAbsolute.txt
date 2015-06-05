@@ -1,0 +1,16 @@
+D:\etron_porject\etron_hello\etron_hello\bin\Debug\etron_hello.exe.config
+D:\etron_porject\etron_hello\etron_hello\obj\Debug\etron_hello.csprojResolveAssemblyReference.cache
+D:\etron_porject\etron_hello\etron_hello\obj\Debug\MainWindow.baml
+D:\etron_porject\etron_hello\etron_hello\obj\Debug\MainWindow.g.cs
+D:\etron_porject\etron_hello\etron_hello\obj\Debug\App.g.cs
+D:\etron_porject\etron_hello\etron_hello\obj\Debug\etron_hello_MarkupCompile.cache
+D:\etron_porject\etron_hello\etron_hello\obj\Debug\etron_hello.g.resources
+D:\etron_porject\etron_hello\etron_hello\obj\Debug\etron_hello.Properties.Resources.resources
+D:\etron_porject\etron_hello\etron_hello\obj\Debug\etron_hello.csproj.GenerateResource.Cache
+D:\etron_porject\etron_hello\etron_hello\bin\Debug\etron_hello.exe
+D:\etron_porject\etron_hello\etron_hello\bin\Debug\etron_hello.pdb
+D:\etron_porject\etron_hello\etron_hello\obj\Debug\etron_hello.exe
+D:\etron_porject\etron_hello\etron_hello\obj\Debug\etron_hello.pdb
+D:\etron_porject\etron_2image\etron_hello\bin\Debug\etron_hello.exe.config
+D:\etron_porject\etron_2image\etron_hello\obj\Debug\etron_hello.exe
+D:\etron_porject\etron_2image\etron_hello\obj\Debug\etron_hello.pdb
